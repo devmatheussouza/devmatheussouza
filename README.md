@@ -13,6 +13,9 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatheussouza&layout=compact&theme=transparent&langs_count=8&card_width=330" />
     </a>
 </div>
+<br>
+
+![](https://komarev.com/ghpvc/?username=devmatheussouza&label=PROFILE+VIEWS)
 
 <h2>Work and study with the following technologies :books:</h2>
 <div>
@@ -31,7 +34,3 @@
     </a>
   </p>
 </div>
-
-<h2>Visitor Count (started in: 04 oct 2023)</h2>
-
-![Visitor Count](https://profile-counter.glitch.me/devmatheussouza/count.svg)
