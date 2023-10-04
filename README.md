@@ -31,3 +31,7 @@
     </a>
   </p>
 </div>
+
+<h2>Visitor Count (started in: 04 oct 2023)</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/devmatheussouza/count.svg)
