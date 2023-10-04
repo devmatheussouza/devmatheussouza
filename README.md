@@ -29,7 +29,7 @@
 <h2>Contact me :smiley:</h2>
 <div>
   <p>
-    <a href="https://www.linkedin.com/in/matheus-luiz/">
+    <a href="https://www.linkedin.com/in/matheus-luiz/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
     </a>
   </p>
