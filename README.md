@@ -7,10 +7,10 @@
 <h2>Github Stats :chart_with_upwards_trend:</h2>
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devmatheussouza&show_icons=true&theme=transparent&hide_rank=true&exclude_repo=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devmatheussouza&show_icons=true&theme=transparent&hide_rank=true&hide=stars&include_all_commits=true" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatheussouza&layout=compact&theme=transparent&langs_count=8&card_width=330" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatheussouza&layout=compact&theme=transparent&langs_count=6&card_width=330&size_weight=0.5&count_weight=0.5" />
     </a>
 </div>
 <br>
